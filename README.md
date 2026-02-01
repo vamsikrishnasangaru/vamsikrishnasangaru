@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
-<h3 align="center">Founder @SparkScale | Transforming Tech | Networking Engineer</h3>
+<h3 align="center">Founder @SparkScale | Transforming Tech | Networking Engineer (CCNA, CCNP) Certified | Web Development | IT & Security Specialist | switching and routing | CCIE Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsikrishnasangaru&label=Profile%20views&color=0e75b6&style=flat" alt="vamsikrishnasangaru" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber security**
 
-- 👨‍💻 All of my projects are available at [https://vamsi.io](https://vamsi.io)
+- 👨‍💻 All of my projects are available at [vamsi.io](https://vamsi.io)
 
 - 💬 Ask me about **Front-End Technologies'**
 
