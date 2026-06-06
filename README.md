@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Location-Hyderabad%20%7C%20Bengaluru-07080d?style=for-the-badge" alt="Location" />
 </p>
 
----
+<br>
 
 ## About Me
 
@@ -23,14 +23,14 @@ I build **AI-powered SaaS applications**, startup-ready web platforms, and scala
 Beyond frontend development, I bring **enterprise networking and security depth** with **CCNA/CCNP** certification and active pursuit of **CCIE Security**, giving me a systems-level mindset for secure, scalable architecture.
 
 - 🔭 Currently pursuing **CCIE Security**
-- 🚀 Founder @ **SparkScale** — shipping products for ambitious teams
+- 🚀 Founder @ **SparkScale**, shipping products for ambitious teams
 - 🌱 Building with **React · Next.js · TypeScript · Supabase · OpenAI APIs**
 - 🛡️ Strong in **Routing & Switching · Firewalls · Network Architecture · Security Fundamentals**
 - 👨‍💻 Portfolio & projects: **[vamsi.io](https://vamsi.io)**
 - 📫 Email: **[vamsikrishnav07@gmail.com](mailto:vamsikrishnav07@gmail.com)**
 - 💼 LinkedIn: **[vamsi-krishna-sangaru](https://www.linkedin.com/in/vamsi-krishna-sangaru/)**
 
----
+<br>
 
 ## What I Do
 
@@ -41,7 +41,7 @@ Beyond frontend development, I bring **enterprise networking and security depth*
 | **Startup Execution** | Product building, client delivery, founder mindset |
 | **Networking & Security** | CCNA, CCNP, CCIE Security, firewalls, infrastructure |
 
----
+<br>
 
 ## Tech Stack
 
@@ -93,42 +93,27 @@ Beyond frontend development, I bring **enterprise networking and security depth*
   </a>
 </p>
 
----
+<br>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsikrishnasangaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=vamsikrishnasangaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsikrishnasangaru&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=vamsikrishnasangaru&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishnasangaru&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamsikrishnasangaru&theme=github_dark" alt="Top languages" />
 </p>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**my-protofilo**](https://github.com/vamsikrishnasangaru/my-protofilo) | Developer portfolio | HTML · CSS |
-| [**star-dhaba**](https://github.com/vamsikrishnasangaru/star-dhaba) | Restaurant website | HTML · CSS |
-| [**Freshers2k24**](https://github.com/vamsikrishnasangaru/Freshers2k24) | Community/event web project | HTML · CSS |
 
 <p align="center">
-  <a href="https://github.com/vamsikrishnasangaru?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-28+-7c5cff?style=for-the-badge" alt="View all repositories" />
-  </a>
-  <a href="https://vamsi.io">
-    <img src="https://img.shields.io/badge/Portfolio-vamsi.io-2dd4bf?style=for-the-badge" alt="Portfolio" />
-  </a>
+  <img src="https://ghchart.rshah.org/vamsikrishnasangaru" alt="GitHub contribution graph" />
 </p>
 
----
+<br>
 
 ## Connect With Me
 
@@ -147,11 +132,13 @@ Beyond frontend development, I bring **enterprise networking and security depth*
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/vamsikrishnasangaru" alt="GitHub contribution graph" />
+  <a href="https://vamsi.io">
+    <img src="https://img.shields.io/badge/Portfolio-vamsi.io-2dd4bf?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
+
+<br>
 
 <p align="center">
   <b>AI Product Engineer · Startup Builder · Infrastructure-Aware Developer · Security-Minded Engineer · Founder</b>
