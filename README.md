@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vamsikrishnasangaru&label=Profile%20views&color=7c5cff&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-2dd4bf?style=for-the-badge" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%20%7C%20Bengaluru-07080d?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%20%7C%20Vishakapatanam%20%7C%20Bengaluru-07080d?style=for-the-badge" alt="Location" />
 </p>
 
 <br>
